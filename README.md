@@ -29,7 +29,7 @@ Technologies Used:
 * Deployed to GitHub Pages
 
 
-Screenshot of Deployed Application
+Screenshot of Deployed Application:
 
 ![Application-Screenshot](https://user-images.githubusercontent.com/94486765/154816757-a451149f-897b-4baf-9af5-7b34053d969a.png)
 
